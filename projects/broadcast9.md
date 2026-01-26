@@ -13,7 +13,7 @@ summary: "A visual novel where you play as Ed Spark, a local PI, to solve a cryp
 Broadcast 9 is a personal project of mine. I started it around October 2024, and have taken major inspiration from games like Ace Attorney and Persona 4. 
 
 <div class="text-center p-4">
-  <img width="200px" 
+  <img width="400px" 
        src="../img/b9_cover.PNG" 
        class="img-thumbnail" >
 </div>
