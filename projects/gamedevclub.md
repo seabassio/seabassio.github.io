@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gamedevlogo.jpg
+image: img/gamedev.png
 title: "UH Manoa Game Dev Club"
 date: 2024
 published: true
