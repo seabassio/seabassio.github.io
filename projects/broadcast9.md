@@ -17,5 +17,6 @@ For this game, my most notable achievements:
 
 - Freeform note-taking system - During interrogations, you have access to your notebook, which you can use to pull questions from and press the person you are interrogation. This system is where the main gameplay of Broadcast 9 lies, as you can also jot down temporary notes, and even combine two that seem to fit together logically and press the suspect on the connection. It's up to the player to find out what fits together with what, and can get challenging sometimes by having to catch the right statement at the right time!
 
-- Flexible dialogue box
-- Dynamic in-dialogue screen
+- Flexible dialogue system - The dialogue system makes it easy to have dialogue that can look exactly how you want it to. Names are automatically assigned to lines, along with voicelines, and the ability to have images flash and fade on screen.
+
+- Dynamic in-dialogue screen - When in dialogue, the scene is versatile, allowing for a lot of expression of motion and character. The text box waits for effects to finish playing before displaying, making sure that all of the information that needs to be conveyed, is. The effects can include things like camera shakes, image flashes, voiced interjections from characters ("Wait a minute!") and even special animations for as many characters need to perform them. 
