@@ -14,7 +14,7 @@ Broadcast 9 is a personal project of mine. I started it around October 2024, and
 
 <div class="text-center p-4">
   <img width="200px" 
-       src="../img/b9_cover.png" 
+       src="../img/b9_cover.PNG" 
        class="img-thumbnail" >
 </div>
 
