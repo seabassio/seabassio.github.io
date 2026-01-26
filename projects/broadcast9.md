@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/b9_cover.PNG
+image: img/b9_logo.PNG
 title: "Broadcast 9"
 date: Not published yet
 published: true
