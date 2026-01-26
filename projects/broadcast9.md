@@ -30,7 +30,7 @@ For this game, my most notable achievements:
 - Dynamic in-dialogue screen - When in dialogue, the scene is versatile, allowing for a lot of expression of motion and character. The text box waits for effects to finish playing before displaying, making sure that all of the information that needs to be conveyed, is. The effects can include things like camera shakes, image flashes, voiced interjections from characters ("Wait a minute!") and even special animations for as many characters need to perform them.
 
 <div class="text-center p-4">
-    <img width="400px" 
+    <img width="600px" 
        src="../img/interrogation.png" 
        class="img-thumbnail" >
     <img width="400px" 
