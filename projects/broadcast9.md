@@ -3,7 +3,6 @@ layout: project
 type: project
 image: img/b9_logo.PNG
 title: "Broadcast 9"
-date: Not published yet
 published: true
 labels:
   - Unity
@@ -11,7 +10,11 @@ labels:
 summary: "A visual novel where you play as Ed Spark, a local PI, to solve a cryptic chain of alien sightings."
 ---
 
-Broadcast 9 is a personal project of mine that I will work on for a long time. I started it around October 2024, and have taken major inspiration from games like Ace Attorney and Persona 4. 
+Broadcast 9 is a personal project of mine. I started it around October 2024, and have taken major inspiration from games like Ace Attorney and Persona 4. 
+
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/b9_cover.png >
 
 For this game, my most notable achievements:
 
