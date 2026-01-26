@@ -31,7 +31,7 @@ For this game, my most notable achievements:
 
 <div class="text-center p-4">
     <img width="400px" 
-       src="../img/The_Acolytes.PNG" 
+       src="../img/interrogation.png" 
        class="img-thumbnail" >
     <img width="400px" 
        src="../img/gameplay.jpeg" 
