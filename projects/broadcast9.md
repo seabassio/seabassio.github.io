@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/b9_cover.png
 title: "Broadcast 9"
 date: Not published yet
 published: true
