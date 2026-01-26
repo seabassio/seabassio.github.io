@@ -13,6 +13,18 @@ summary: "Managing projects for UH Manoa Game Dev Club since Spring '25!."
 
 itch.io page: https://uhmanoagamedev.itch.io
 
+<div class="text-center p-4">
+  <img width="200px" 
+       src="../img/Tezcat_TitleScreen.png" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/hornetsnest_title.png" 
+       class="img-thumbnail" >
+  <img width="200px" 
+       src="../img/dreameter_title.png" 
+       class="img-thumbnail" >
+</div>
+
 Ever since I have enrolled at UH Manoa, I have been a part of the Game Dev Club! At first, I was a musician who made a song for each project I worked on, but later, I became Assistant Project Manager, and later Producer for the club's projects! Here is a list of games that I have worked on with the club:
 
 <hr>
