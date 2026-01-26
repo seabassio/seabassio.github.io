@@ -19,9 +19,6 @@ Broadcast 9 is a personal project of mine. I started it around October 2024, and
     <img width="400px" 
        src="../img/The_Acolytes.PNG" 
        class="img-thumbnail" >
-    <img width="400px" 
-       src="../img/gameplay.jpeg" 
-       class="img-thumbnail" >
 </div>
 
 For this game, my most notable achievements:
@@ -30,4 +27,13 @@ For this game, my most notable achievements:
 
 - Flexible dialogue system - The dialogue system makes it easy to have dialogue that can look exactly how you want it to. Names are automatically assigned to lines, along with voicelines, and the ability to have images flash and fade on screen.
 
-- Dynamic in-dialogue screen - When in dialogue, the scene is versatile, allowing for a lot of expression of motion and character. The text box waits for effects to finish playing before displaying, making sure that all of the information that needs to be conveyed, is. The effects can include things like camera shakes, image flashes, voiced interjections from characters ("Wait a minute!") and even special animations for as many characters need to perform them. 
+- Dynamic in-dialogue screen - When in dialogue, the scene is versatile, allowing for a lot of expression of motion and character. The text box waits for effects to finish playing before displaying, making sure that all of the information that needs to be conveyed, is. The effects can include things like camera shakes, image flashes, voiced interjections from characters ("Wait a minute!") and even special animations for as many characters need to perform them.
+
+<div class="text-center p-4">
+    <img width="400px" 
+       src="../img/The_Acolytes.PNG" 
+       class="img-thumbnail" >
+    <img width="400px" 
+       src="../img/gameplay.jpeg" 
+       class="img-thumbnail" >
+</div>
