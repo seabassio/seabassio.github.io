@@ -10,7 +10,7 @@ labels:
   - Personal
 ---
 
-*My personal interests in the field of Software Engineering*
+*Sofware Engineering might be cool, right?*
 
 ##
 My interest in software engineering has mostly to do with the chops of project management and programming. My main goal is to be able to lead a team of programmers to create software fast. I am studying game development at the moment, and will need to be able to convey the right information at the right time. This is a crucial step in learning how to become an efficient leader, where I don't waste anybody's time and am able to produce things quickly. In order to facilitate learning how to manage projects related to software engineering, I will learn how to use GitHub to keep track of the work of many people at once. It would be useful to even look into some other methods of team communication, but my main interest is learning how to NOT waste time.
