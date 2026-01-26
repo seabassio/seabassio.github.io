@@ -14,10 +14,10 @@ labels:
 
 <div class="text-center p-4">
   <img width="200px" 
-       src="img/cheeseburger.jpg" 
+       src="../img/cheeseburger.jpg" 
        class="img-thumbnail" >
   <img width="200px" 
-       src="../meeting.jpg" 
+       src="../img/meeting.jpg" 
        class="img-thumbnail" >
 </div>
 
