@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/gamedevlogo.png
+image: img/gamedevlogo.jpg
 title: "UH Manoa Game Dev Club"
 date: 2024
 published: true
@@ -10,8 +10,6 @@ labels:
   - GitHub
 summary: "Managing projects for UH Manoa Game Dev Club since Spring '25!."
 ---
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
 
 itch.io page: https://uhmanoagamedev.itch.io
 
