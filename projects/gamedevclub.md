@@ -40,5 +40,3 @@ DreaMeter - The theme for this one was "Dreaming". This was actually the first p
 </pre>
 
 <hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
