@@ -16,7 +16,7 @@ labels:
   <img width="200px" 
        src="../img/cheeseburger.jpg" 
        class="img-thumbnail" >
-  <img width="200px" 
+  <img width="400px" 
        src="../img/meeting.jpg" 
        class="img-thumbnail" >
 </div>
