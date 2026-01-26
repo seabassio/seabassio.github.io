@@ -41,5 +41,13 @@
         "MATH 307"
       ]
     }
+  ],
+  "activities": [
+    {
+       "organization": "UH Manoa Game Dev",
+       "website": "https://uhmanoagamedev.itch.io",
+       "position": "Project Manager",
+       "summary": "I manage projects at the UHM Game Dev club! We mainly use Unity and GitHub to put our projects together, build the game to work on a browser, and then post it to our itch page!"
+    }
   ]
 }
