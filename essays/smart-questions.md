@@ -25,9 +25,13 @@ According to Eric Steven Raymond, in "How To Ask Questions the Smart Way", a sma
 
 To be appropriate, it also has to be in the right forum, and this not only includes the general idea of the forum, but also specific skill levels that the forum normally solves. If you post a question you could have solved by simply Googling a problem or reading the manual, you will most likely not get the answer you want. It is important to check if there has been any progress made on your question before, as it will save everyone time and effort.
 
-To be to the point, the question needs 
+To be to the point, the question just needs to be professional and polite. If you include too much detail like how you were up until 3 am downing whiskey trying to solve a problem, or you ask a question like, "Is anyone willing to help?", people will most likely ignore your question and instead focus on your ethics. A smart question would only incldue the information needed for people to find it on the forum, pick it up, and help you find a solution.
 
 
 ## Some examples of smart and not-so-smart questions
+
+In [this](https://stackoverflow.com/questions/1421862/metadata-file-dll-could-not-be-found) example,
+
+In [this](https://stackoverflow.com/questions/79878152/c-sharp-equivalent-to-pythons-prophet-library) example,
 
 ## Should I still ask a not-so-smart question?
