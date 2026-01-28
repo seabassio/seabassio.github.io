@@ -24,3 +24,7 @@ I think TypeScript is a good language if you are looking to work in a collaborat
 ## My thoughts on athletic software engineering
 
 Athletic software engineering is a concept I was recently introduced to, but I am all for it. Even though it is stressful at times, because I am used to having to go back and redo some work, I think it is a discipline worth learning. In an actual software development job, not only is accuracy a priority, but also speed. Employers will likely keep you hired longer if you are able to complete tasks quickly and effectively. They will have to pay you for less hours, have more confidence in giving you work, and you will be able to contract more work sooner. So, even though I am currently struggling on the matter, I do believe athletic software engineering is a very useful skill to learn, especially in the field of game development.
+
+## I am excited to learn more about this language
+
+Being an amateur game designer, getting the skills necessary to thrive in the field is very exciting. Since I don't have much time on my hands to be programming for long amounts of time at once, I will give my all into learning athletic software engineering. In my opinion, being able to do more in less time will be a boon to my future self, as we will find ourselves with less and less time as other things fill up our shcedule. If I actually want to make and finish games as a side hobby, I need to commit myself to this practice.
