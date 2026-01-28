@@ -30,7 +30,25 @@ To be to the point, the question just needs to be professional and polite. If yo
 
 ## Some examples of smart and not-so-smart questions
 
-In [this](https://stackoverflow.com/questions/1421862/metadata-file-dll-could-not-be-found) example,
+[This](https://stackoverflow.com/questions/1421862/metadata-file-dll-could-not-be-found) is an example I found of a smart question, according to Raymond.
+
+I am working on a WPF, C# 3.0 project, and I get this error:
+
+Error 1 Metadata file
+'WORK=- \Tools\VersionManagementSystem\BusinessLogicLayer\bin\Debug
+\BusinessLogicLayer.dll' could not be found C:\-=WORK=- \Tools
+\VersionManagementSystem\VersionManagementSystem\CSC VersionManagementSystem
+This is how I reference my usercontrols:
+
+xmlns:vms="clr-namespace:VersionManagementSystem"
+<vms:SignOffProjectListing Margin="5"/>
+It happens after every failed build. The only way I can get the solution to compile is to comment-out all my user controls and re-build the project. Then I uncomment the usercontrols and everything is fine.
+
+I have checked build orders and dependency configurations.
+
+As you can see, it seems to have truncated the DLL file's absolute path... I have read that there is a bug with the length. Is this a possible problem?
+
+It's very annoying and having to comment, build, and uncomment, the build is becoming extremely tiresome.
 
 In [this](https://stackoverflow.com/questions/79878152/c-sharp-equivalent-to-pythons-prophet-library) example,
 
