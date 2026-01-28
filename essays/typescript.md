@@ -13,6 +13,12 @@ labels:
 
 *How do I declare a variable again?*
 
+<div class="text-center p-4">
+  <img width="600px" 
+       src="../img/post.jpg" 
+       class="img-thumbnail" >
+</div>
+
 ## Learning TypeScript without knowing Javascript.
 
 Before my ICS 314 class, I did not know any Javascript. I had heard about it from other people in my earlier classes, but I had never experimented with it myself. Thankfully, because I have had to learn other languages like C, C#, and Java, learning the syntax of Javascript wasn't too hard for me. Learning TypeScript was actually easier than I thought after that, as it made more sense to me than Javascript. I am used to having to declare a type for every variable, so learning TypeScript was actually a fun and gratifying experience after that.
