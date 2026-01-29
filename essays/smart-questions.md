@@ -15,7 +15,7 @@ labels:
 
 <div class="text-center p-4">
   <img width="600px" 
-       src="../img/post.jpg" 
+       src="../img/smart.jpg" 
        class="img-thumbnail" >
 </div>
 
