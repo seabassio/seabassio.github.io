@@ -4,7 +4,7 @@ type: essay
 title: "Smart Questions for Smart People"
 # All dates must be YYYY-MM-DD format!
 date: 2026-01-27
-published: false
+published: true
 labels:
   - Stack Exchange
   - Reflection
