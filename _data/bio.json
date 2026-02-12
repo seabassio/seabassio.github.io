@@ -25,6 +25,14 @@
     {
       "name": "Game Design in Unity",
       "keywords": [ "Scripting and Hierarchical Organization", "Animation Implementation"]
+    },
+    {
+      "name": "Music Programming",
+      "keywords": ["Logic Pro X", "Audacity"]
+    },
+    {
+      "name": "Computer Animation",
+      "keywords": ["Procreate", "Piskel", "Unity"]
     }
   ],
   "education": [
@@ -35,10 +43,10 @@
       "startDate": "2024-09-01",
       "endDate": "Present",
       "courses": [
-        "ICS 211",
-        "ICS 241",
-        "ICS 314",
-        "MATH 307"
+        "ICS 211, taken Spring 2025",
+        "ICS 241, taken Fall 2025",
+        "ICS 314, taken Fall 2026",
+        "MATH 307, taken Fall 2026"
       ]
     }
   ],
