@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Coding Standards are the foundation"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-27
+date: 2026-02-11
 published: true
 labels:
   - Stack Exchange
