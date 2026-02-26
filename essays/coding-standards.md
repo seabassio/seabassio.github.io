@@ -6,9 +6,8 @@ title: "Coding Standards are the foundation"
 date: 2026-02-11
 published: true
 labels:
-  - Stack Exchange
-  - Reflection
-  - Communication
+  - Coding Standards
+  - Professional
 ---
 
 *Who needs to learn coding standards? Spaghetti coders, listen up.*
