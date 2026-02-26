@@ -1,17 +1,17 @@
 ---
 layout: essay
 type: essay
-title: "Strapping Boots with Bootstrap"
+title: "I Still Struggle with Bootstrap"
 # All dates must be YYYY-MM-DD format!
 date: 2026-02-11
-published: true
+published: false
 labels:
   - Bootstrap 5
   - Frameworks
   - HTML/CSS
 ---
 
-*Who needs to learn coding standards? Spaghetti coders, listen up.*
+*Bootstrap is a fantastic framework that I still can't wrap my head around.*
 
 <div class="text-center p-4">
   <img width="600px" 
