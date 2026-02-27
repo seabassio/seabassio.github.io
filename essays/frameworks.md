@@ -3,8 +3,8 @@ layout: essay
 type: essay
 title: "I Still Struggle with Bootstrap"
 # All dates must be YYYY-MM-DD format!
-date: 2026-02-11
-published: false
+date: 2026-02-26
+published: true
 labels:
   - Bootstrap 5
   - Frameworks
@@ -19,16 +19,16 @@ labels:
        class="img-thumbnail" >
 </div>
 
-## My experience with learning coding standards
+## My struggle with learning Bootstrap 5, the most efficient way
 
-When I first started learning how to program, I was confused on why programmers used such funky looking words and off-looking capitalization. I'm pretty sure most people were. The language was technically English, but it's more like learning a whole other language than a dialect. However, as I started to grow more accustomed to learning what meant what, I started to appreciate the way that most words were abbreviated: Integer to int, Boolean to bool, and "list of things" to []. And in a coding standard fashion, I started learning how to capitalize everything so it makes sense.
+I did not learn Bootstrap 5 very well. When I was first learning it, I found it interesting how it worked. Instead of Bootstrap being a different language than HTML and CSS, which was what I was expecting given the trajectory of the class thus far, I actually simply had to add another stylesheet reference and a script at the end of the file that kicked everything into motion. I thought that, given the fact that it was simply spliced into HTML and CSS which I had already known, that it was going to be a breather in between learning this and the next module.
 
-A lot of my current skills came from trial and error during the development of my first game. It's a game I never published, because I had to constantly redo the code. Everytime I learned things like camelCase, or _local variable names, I thought, "That makes so much sense, I need to do that, otherwise my code will be unusuable!"
+However, as I opened up the 3 hour long FreeCodeCamp tutorial that I had to watch in order to understand the fundamentals of Bootstrap 5, I had realized that I had to start thinking awbout programming in a very different way. At first I was wondering why the person in the tutorial was copy and pasting everything from the documentation. We are supposed to learn how to write that ourselves, right? I disregarded most of the video because the man teaching did not go through on how to write these different types of containers, but instead on how to modify them.
 
-## Why is bad code bad?
+As the classes went on, I slowly started to understand why exactly it was taught this way. If you want to ACTUALLY get things done, and not just "learn how to program", then this is when you have to start using programs that other people have already built. For example, when the entire template for a Bootstrap collapsible navbar is already online and ready to copy and paste, what employer would want you to actually type it in line by line? The most efficient employees know exactly what need to get done, and the fastest way to get it done. This was a lesson I had wished I learned a lot sooner.
 
-There's one word that comes to mind from my experience coding: scalability. If you don't use proper coding standards, your program might work in a vaccum. However, take it outside of that, and put it into a project, and nothing will make sense. For example, a bad coding might fully capitalize all of their variables, like in a Player class they would have Health and Stamina variables. However, to someone who is looking through all of the variables in a public setting, they now have to take an extra unnecessary step to determine if what they are looking at is a class or a local variable.
+## Was it worth it?
 
-The reason you want to learn how to follow coding standards is for the courtesy of others, and yourself by extension. Ease of use is always nice, right? There's always something more professional about a program that anyone can use, instead of the person who made it always having to sit by your side explaining what everything means. We want things to be as clear and concise as possible in the professional world, as we all have our own things to do.
+I failed the in-class assignment that had us put our Bootstrap skills to the test. I did not get as much practice as I wanted, and could not complete it in time. As much as this hurts, I really don't think I wasted my effort with learning Bootstrap. I learned the extremely important lesson of needing to use what was already available, tested, and ready to be modified in order to suit my needs. The great thing about Bootstrap and frameworks like it is that it's extremely modifiable, and can be made to look like almost any website out there, or at least an imititation of it. Ironically, me struggling with this unit has, in my opinion, taught me much more valuable, employable skills that I'll be able to put to use very soon.
 
-I myself still have some coding standards to get used to (like the placement of curly braces according to ESLint), however, if you're ever planning on working with a team of people, learning coding standards would be a great way to get cordial with them fast.
+I'm sort of glad this moment came up. It's the first time in my Computer Science path in which I finally had to consider a re-think in the way I approach programming and software engineering. For the next unit in which I am learning another framework, and for every future framework I use after this, I know that I can take a little bit of the work off of my shoulders by looking a bit harder through the official documentation.
