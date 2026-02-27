@@ -15,7 +15,7 @@ labels:
 
 <div class="text-center p-4">
   <img width="600px" 
-       src="../img/spaghetti.png" 
+       src="../img/bootstrap.png" 
        class="img-thumbnail" >
 </div>
 
