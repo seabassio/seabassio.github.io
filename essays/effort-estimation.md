@@ -12,6 +12,12 @@ labels:
 
 *Should I really be timing myself and adding extra pressure to this task?*
 
+<div class="text-center p-4">
+  <img width="600px" 
+       src="../img/timer.jpg" 
+       class="img-thumbnail" >
+</div>
+
 ## Making Effort Estimations
 
 The only way to estimate effort in an effective way is by using experience. Every time a task was assigned, I looked back on all of the times that I was assigned something similar, and then made an educated guess on how long I would take. I was always generous with the time that I gave myself, since I know hiccups can occur in the development process. This also applied to when I was estimating effort for tasks give it to others as well.
