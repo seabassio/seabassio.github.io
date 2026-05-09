@@ -14,7 +14,7 @@ labels:
 
 <div class="text-center p-4">
   <img width="600px" 
-       src="../img/timer.jpg" 
+       src="../img/desk.jpg" 
        class="img-thumbnail" >
 </div>
 
