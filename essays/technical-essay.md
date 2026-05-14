@@ -3,14 +3,14 @@ layout: essay
 type: essay
 title: "My Software Engineering Start"
 # All dates must be YYYY-MM-DD format!
-date: 2026-05-09
-published: false
+date: 2026-05-13
+published: true
 labels:
   - Technical Programming
   - Reflection
 ---
 
-*Should I really be timing myself and adding extra pressure to this task?*
+*Software engineering is pretty in line with what I thought it would be, which is surprising.*
 
 <div class="text-center p-4">
   <img width="600px" 
@@ -18,20 +18,24 @@ labels:
        class="img-thumbnail" >
 </div>
 
-## Making Effort Estimations
+## What I expected out of a Software Engineering Class
 
-The only way to estimate effort in an effective way is by using experience. Every time a task was assigned, I looked back on all of the times that I was assigned something similar, and then made an educated guess on how long I would take. I was always generous with the time that I gave myself, since I know hiccups can occur in the development process. This also applied to when I was estimating effort for tasks give it to others as well.
+When I started this semester, I expected that this class would be tough, but would give me a basic rundown on how to use some frameworks and software in order to develop an application. Because I am studying game design, I was excited for how this knowledge would apply to that workflow, and how much more I would be able to develop after. I was also excited to learn how to manage and work in an ongoing software development project using services like GitHub and Vercel.
 
-## Benefits of Effort Estimations
+Now that I have taken and finished the class, I can share some of my experiences learning these concepts.
 
-Despite my effort estimations being usually off, I always found them beneficial. When I work under a time constraint, I usually work faster and more efficiently. Making effort estimations usually gave me a soft time constraint that I could use to my advantage. And even when I did not meet that time constraint, I knew what I had to improve on afterwards.
+## Learning about Functional Programming
 
-## Tracking Actual Effort
+Functional programming is something that I did not know that I needed until I took this class. With some funcitons, about 20 lines of code can be condensed into one. Functional programming can be an extremely efficient way to put an idea that would usually take for or while loops quickly down and get a program working fast. The only drawback with funcitonal programming that I have seen in my testing is that it can be hard to parse what you are writing sometimes. Because so much functionality gets condensed, it is difficult to know what variables or elements you have used so far, and what is enclosed in what. However, parsing issues aside, I am glad to have learned the basics of functional programming in this class.
 
-Tracking actual effort was useful because it showed what I had to improve on. One thing I noticed recently was that I usually get stuck on something for too long, making me go past the time limit. Now that I'm tracking actual effort, I can work towards fixing that. Catching small things like that is the only way to kick bad habits to the curb.
+## Learning about Coding Standards
 
-I usually tracked my actual effort with a simple phone timer. I found it the simplest and most realistic way to keep track of how long that I was taking on each assignment. However, one weakness of using a phone timer is that I did not account for testing time, and time spent after the fact where I was fixing some issues with the code I wrote under the time constraint.
+One thing I can say about coding standards is that I was unsure if I was ever adhering to them when learning how to code during high school. This class was the first time I have ever heard about formal coding standards, and that there were programs such as ESLint that could help find little things in code that might be hard to read for other people. The main thing about coding standards is that everyone reads their own code the best, so there is little incentive to learn them at first. Whern first getting your code reviewed by another person, you might get confused when they say they can't read it. However, implied in the name, coding languages are languages. You only learn how to speak fluently in them when you learn how everyone else speaks it. This is why I believe this concept should be taught at a younger age.
+
+## Learning about Agile Project Management
+
+This class used a concept called Agile Project Management, which is a framework given to help people manage and complete their projects in a short timespan. This is probably the most valuable concept I have learned in this class, and one that I will take with me for a very long time. The ability to assign tasks to a team and make sure that everything gets done in a sequential manner is one of the best ways to complete tasks fast. The technology sector is extremely rough right now, and people are looking to hire whoever can get their job done the fastest. Due to Agile Project Management, or more specifically Issue Driven Project Management, my entire team knew what tasks they needed to complete by what times, and we were able to make a website in much less time than we had anticipated, which is a skill I can absolutely use in game development.
 
 ## Overall...
 
-In the case of basic effort tracking, I felt like I have been doing fine so far. However, if I wanted to improve one thing I could do is use a more sophisticated method of tracking. Next time, I will also give myself more time to take into account unit testing, and general bug fixing. Even though it does take more effort, I believe that this practice is something that every software engineer should develop to help their fellow colleagues.
+This class was hard, but rewarding. I will use the skills I gained through it for the future, when I plan to put together a team and to start making games. I also plan to further my knowledge in software development so I can keep learning about more frameworks and become more efficient. I just hope that I am able to stand out in this field. 
