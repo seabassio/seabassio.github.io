@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: img/b9_logo.PNG
+image: img/manoapulselogo.PNG
 title: "Manoa Pulse"
-published: false
+published: true
 labels:
   - NextJS
   - Bootstrap
@@ -16,10 +16,10 @@ Manoa Pulse was the final project for my Software Engineering I class. I helped 
 
 <div class="text-center p-4">
   <img width="400px" 
-       src="../img/b9_cover.PNG" 
+       src="../img/heatmap.PNG" 
        class="img-thumbnail" >
     <img width="400px" 
-       src="../img/The_Acolytes.PNG" 
+       src="../img/pulse-feed-M3.PNG" 
        class="img-thumbnail" >
 </div>
 
@@ -35,10 +35,7 @@ Here are the parts that I contributed in during the devlelopment of this project
 <a href="https://manoa-pulse.github.io/">Link to github.io page</a>
 
 <div class="text-center p-4">
-    <img width="400px" 
-       src="../img/interrogation.png" 
-       class="img-thumbnail" >
     <img width="600px" 
-       src="../img/gameplay.jpeg" 
+       src="../img/landing-page.PNG" 
        class="img-thumbnail" >
 </div>
