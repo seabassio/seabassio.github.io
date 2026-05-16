@@ -16,10 +16,10 @@ Manoa Pulse was the final project for my Software Engineering I class. I helped 
 
 <div class="text-center p-4">
   <img width="400px" 
-       src="../img/heatmap.PNG" 
+       src="../img/heatmap.png" 
        class="img-thumbnail" >
     <img width="400px" 
-       src="../img/pulse-feed-M3.PNG" 
+       src="../img/pulse-feed-M3.png" 
        class="img-thumbnail" >
 </div>
 
@@ -36,6 +36,6 @@ Here are the parts that I contributed in during the devlelopment of this project
 
 <div class="text-center p-4">
     <img width="600px" 
-       src="../img/landing-page.PNG" 
+       src="../img/landing-page.png" 
        class="img-thumbnail" >
 </div>
