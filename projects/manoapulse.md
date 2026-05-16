@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/manoapulselogo.PNG
+image: img/manoapulselogo.png
 title: "Manoa Pulse"
 published: true
 labels:
