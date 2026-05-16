@@ -32,6 +32,7 @@ Here are the parts that I contributed in during the devlelopment of this project
 - I also helped with small UI elements such as the comment section and the submit update page. Working on UI with the NextJS framework is interesting because of how components work. With components, you can place complex UI elements by simply calling them like a function in the body of your page.tsx file. It can allow for some very useful tools to be deployed in multiple parts of the UI, such as a sidebar.
 
 <a href="https://manoa-pulse-one.vercel.app/">Vercel Deployment of app</a>
+
 <a href="https://manoa-pulse.github.io/">Link to github.io page</a>
 
 <div class="text-center p-4">
